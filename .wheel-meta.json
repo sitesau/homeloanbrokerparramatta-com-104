@@ -1,0 +1,19 @@
+{
+  "wheel_id": 357,
+  "structure": "umbrella",
+  "slug": "homeloanbrokerparramatta-com-104",
+  "project": "mortgage-broker-parramatta-costs-b6b734ae7edf60f59dfcd740bb235d",
+  "parent_t1_ref": "homeloanbrokerparramatta-com-151",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokerparramatta.com.au",
+  "primary_kw": "mortgage broker parramatta costs",
+  "intended_url": "https://aumedia.neocities.org/mortgage-broker-parramatta-costs-b6b734ae7edf60f59dfcd740bb235d/",
+  "writeback_nonce": "7efd3028aed9f3db",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/mortgage-broker-parramatta-f359ff0c7005cc095ef6bada5c803be1d/",
+      "anchor": "mortgage broker parramatta",
+      "rel": "follow"
+    }
+  ]
+}
